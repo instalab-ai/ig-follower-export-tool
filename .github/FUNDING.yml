@@ -12,8 +12,5 @@ lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cl
 polar: # Replace with a single Polar username
 buy_me_a_coffee: # Replace with a single Buy Me a Coffee username
 thanks_dev: # Replace with a single thanks.dev username
-custom: https://instalab.ai/ig-follower-export-tool
-custom: https://instalab.ai
-custom: https://bio.site/instalab.ai
-custom: https://dev.to/max-dev
+custom: ['https://instalab.ai/ig-follower-export-tool', 'https://instalab.ai', 'https://bio.site/instalab.ai', 'https://dev.to/max-dev']
 
